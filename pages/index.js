@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Estudando e planejando o futuro. </h1>
+    return <h1>Um pequeno passo no presente, mais um grande passo rumo ao desenvolvimento de aplicações web.</h1>
 }
 
 export default Home; 
